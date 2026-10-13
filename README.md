@@ -9,7 +9,7 @@ Uygulamada grafiksel arayüz kullanılmamıştır. Program çalıştırıldığ�
 - Java 17
 - Maven
 - OpenPDF
-- IntelliJ IDEA / Eclipse / VS Code gibi herhangi bir Java IDE'si
+- IntelliJ IDEA 
 - Git ve GitHub
 
 ## Kullanılan nesneler ve sınıflar
@@ -64,7 +64,7 @@ dosyası oluşur.
 Ödevde özgeçmişte fotoğraf bulunması gerektiği için gerçek fotoğrafınızı şu isimle proje içine koyun:
 
 ```text
-src/main/resources/foto.jpg
+src/main/resources/vesikalık.jpg
 ```
 
 Sonra programı tekrar çalıştırın.
