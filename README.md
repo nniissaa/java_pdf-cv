@@ -69,7 +69,6 @@ src/main/resources/vesikalık.jpg
 
 Sonra programı tekrar çalıştırın.
 
-> Not: Örnek e-posta, telefon ve şirket bilgileri teslimden önce kendi tercihlerinize göre değiştirilmelidir.
 
 ## GitHub teslimi
 GitHub repository'sine aşağıdaki dosyalar yüklenebilir:
@@ -86,4 +85,10 @@ GitHub repository'sine aşağıdaki dosyalar yüklenebilir:
 `target/` klasörü ve IDE'ye ait gereksiz dosyalar yüklenmemelidir.
 
 ## Yapay zekâ kullanım açıklaması
-Bu projede yapay zekâdan kodun taslağını oluşturma, sınıfların sorumluluklarını planlama, PDF kütüphanesinin kullanımını anlamlandırma ve hata durumlarını kontrol etme aşamalarında yararlanılmıştır. Üretilen kodun çalışma mantığı incelenmiş, sınıflar ve metotlar anlaşılmaya çalışılmış ve proje gereksinimlerine göre düzenlenmiştir. Yapay zekâ yalnızca çıktı üretmek için değil, kullanılan yapıların neden tercih edildiğini anlamak ve geliştirme sürecini desteklemek amacıyla kullanılmıştır.
+## Yapay Zekâ ile Çalışma Süreci
+
+Bu projeyi geliştirirken ChatGPT'den bir yardımcı ve öğrenme aracı olarak faydalandım. Proje sürecinde uygulamanın yapısını planlamak, Java sınıflarının sorumluluklarını belirlemek, PDF oluşturma işlemini anlamak ve karşılaştığım hataları çözmek için birlikte çalıştık.
+
+Geliştirme sürecinde sınıfların neden ayrı tutulduğunu, nesnelerin nasıl oluşturulduğunu ve PDF üretme işleminin nasıl çalıştığını anlamaya yönelik açıklamalardan yararlandım. Aldığım önerileri kendi proje gereksinimlerime göre değerlendirdim ve uygulamayı IntelliJ IDEA üzerinde çalıştırarak sonuçlarını kontrol ettim.
+
+Bu süreçte amacım yalnızca çalışan bir uygulama oluşturmak değil, kullandığım kodların mantığını anlamak ve Java programlama bilgimi geliştirmekti. ChatGPT, geliştirme sürecinde fikir alışverişi yaptığım, sorularımı yanıtlayan ve sorunları çözmeme yardımcı olan bir destek aracı olarak kullanıldı.
